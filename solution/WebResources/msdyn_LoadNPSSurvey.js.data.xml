@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebResourceId>{a81047df-10d6-4f26-bf12-745b92e642cc}</WebResourceId>
+  <Name>msdyn_LoadNPSSurvey.js</Name>
+  <DisplayName>LoadNPSSurvey.js</DisplayName>
+  <Description>Web resource for NPS Survey</Description>
+  <WebResourceType>3</WebResourceType>
+  <IntroducedVersion>1.2.0.1</IntroducedVersion>
+  <IsEnabledForMobileClient>1</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+  <FileName>/WebResources/msdyn_LoadNPSSurveyjsA81047DF-10D6-4F26-BF12-745B92E642CC</FileName>
+</WebResource>

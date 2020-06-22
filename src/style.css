@@ -1,0 +1,18 @@
+.main {
+    font-family: 'Segoe UI', Tahoma, Arial;
+    margin: 0% 5%;
+    line-height: 1em;
+}
+.main .row {
+    margin-bottom: 2em;
+}
+.main h1, .main h2 {
+    font-weight: 500;
+}
+.main img {
+    max-width: 100%;
+}
+.main .code {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}

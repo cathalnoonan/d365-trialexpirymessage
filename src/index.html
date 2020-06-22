@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" />
+    
+    <title>Trial Expiry Message</title>
+</head>
+<body>    
+    <div class="main">        
+        <div class="row">
+            <h1>
+                D365 - Trial Expiry Message
+            </h1>
+            <p>
+                Solution to show the expiry date in the header of a trial environment.
+            </p>
+            <img alt="Banner image" src="banner.png" />
+        </div>
+
+        <div class="row">
+            <h2>
+                Overview
+            </h2>
+            <p>
+                The solution piggybacks on the <span class="code">msdyn_LoadNPSSurvey.js</span> file that is loaded on every page.
+            </p>
+            <p>
+                This ensures the trial expiry message code will also run on every page.
+            </p>
+        </div>
+
+        <div class="row">
+            <h2>
+                Removal
+            </h2>
+            <p>
+                Uninstalling the managed solution will remove the message and revert <span class="code">msdyn_LoadNPSSurvey.js</span> back to the previous state.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

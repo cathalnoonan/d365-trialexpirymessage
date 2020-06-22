@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Mapping>  
+    <FileToFile map="WebResources\cn_\trialexpirymessage\banner.png" to="..\src\banner.png" />  
+    <FileToFile map="WebResources\cn_\trialexpirymessage\index.html" to="..\src\index.html" />  
+    <FileToFile map="WebResources\cn_\trialexpirymessage\script.js" to="..\src\script.js" />  
+    <FileToFile map="WebResources\cn_\trialexpirymessage\style.css" to="..\src\style.css" />  
+</Mapping>
